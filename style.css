@@ -37,7 +37,8 @@ p {
 
 body {
     min-height: 100vh;
-    display: grid;
+    display: flex;
+    place-content: center;
     place-items: center;
 }
 
